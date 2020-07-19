@@ -1,6 +1,12 @@
 ### Hi there 👋
+- :computer: I’m currently working as a SDE Intern at AWS
+- :books: I'm pursuing a BS/MS in Computer Science @ [SD Mines](https://www.sdsmt.edu)
+- :point_right: For more info about me and what I'm up to, check out my [portfolio](https://www.lanemoseley.dev)
+
+
 
 <!--
+
 **lanemoseley/lanemoseley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
