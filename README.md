@@ -1,8 +1,4 @@
-### Hi there 👋, my name is Lane and I'm currently
-- :computer: working as a SDE Intern at AWS
-- :books: pursuing a BS/MS in Computer Science @ [SD Mines](https://www.sdsmt.edu)
----
-### For more info about me and what I'm up to, :point_right: check out my [portfolio](https://www.lanemoseley.dev).
+### Hi there 👋, my name is Lane. For more info about me and what I'm up to, :point_right: check out my [portfolio](https://www.lanemoseley.dev).
 
 
 
