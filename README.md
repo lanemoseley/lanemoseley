@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Lane. For more info about me and what I'm up to, :point_right: check out my [portfolio](https://www.lanemoseley.dev).
+### Hi there 👋, my name is Lane.
 
 
 
