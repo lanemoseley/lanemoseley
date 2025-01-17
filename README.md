@@ -24,7 +24,7 @@
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/lane-moseley)
-- 🌐 [Personal Website](https://lanemoseley.dev) *(coming soon!)*
+- 🌐 [Personal Website](https://lanemoseley.dev)
 - 📧 [Email](mailto:moseley.lane@gmail.com)
 
 ---
