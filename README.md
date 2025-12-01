@@ -2,7 +2,7 @@
 
 🧑‍💻 **Software Developer & Problem Solver**
 
-🔧 **Current Role**: Executive Business Partner (Software & IT Lead) at INTEREP Inc.
+🔧 **Current Role**: Software Development Analyst at Black Hills Energy.
 
 🛠️ **Previous Experience**: Software Engineer at AWS and Lockheed Martin.
 
@@ -12,7 +12,6 @@
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/lane-moseley)
-- 🌐 [Personal Website](https://lanemoseley.dev)
 - 📧 [Email](mailto:moseley.lane@gmail.com)
 
 ---
